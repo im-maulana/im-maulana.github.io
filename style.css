@@ -1,0 +1,21 @@
+nav {
+  background-color: #6e4d41;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fbddd2;
+}
+
+#gallery {
+  background-color: #fbddd2;
+}
+
+footer {
+  background-color: #6e4d41;
+  text-align: center;
+}
+
+section {
+  padding-top: 5rem;
+}
